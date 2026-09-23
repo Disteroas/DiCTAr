@@ -21,11 +21,10 @@ The goal of this project is to provide a helpful reference for fellow students t
 
 > [!NOTE]
 > As a copyright precaution, exercise statements, exam texts and lecture slides have been removed
-> from this repo. Where a slide explained theory, it has been rewritten as text; where it was an
-> exercise statement, you'll find a short placeholder with the topic. The official texts are on
+> from this repo. The official texts are on
 > the course portal.
 >
-> The live scripts on MPC need **MPCtools**, which is not included here: download it from the
+> The scripts on MPC need **MPCtools**, which is not included here: download it from the
 > course portal (the professor uploads it) and put the `MPCtools` folder next to the script, or
 > add it to the MATLAB path.
 
